@@ -1,0 +1,1 @@
+Import as "Existing Maven Projects" in Eclipse
